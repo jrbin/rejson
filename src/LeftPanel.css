@@ -1,0 +1,19 @@
+.LeftPanel {
+    display: flex;
+    flex-flow: column;
+    flex-grow: 1;
+    overflow: auto;
+}
+
+.LeftPanel-tree {
+    flex: 1 1 auto;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.15);
+    padding: 0.5rem 0.75rem;
+    overflow: auto;
+}
+
+.LeftPanel-bottom {
+    flex-shrink: 0;
+    padding: 0.5rem 0.75rem;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2) inset;
+}

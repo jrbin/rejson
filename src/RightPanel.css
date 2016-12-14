@@ -1,0 +1,24 @@
+.RightPanel {
+    display: flex;
+    flex-flow: column;
+    flex-grow: 1;
+}
+
+.RightPanel-textarea {
+    flex: 1 0 auto;
+}
+
+.RightPanel-bottom {
+    flex-shrink: 0;
+    padding: 0.5rem 0.75rem;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2) inset;
+    border-left: 1px solid rgba(0, 0, 0, 0.15);
+}
+
+.RightPanel-nowrap {
+    white-space: nowrap;
+}
+
+.RightPanel-form .form-check {
+    margin-left: 15px;
+}

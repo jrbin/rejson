@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Source Code Pro';
+    src: url('./SourceCodePro-Regular.ttf');
+}
+
+.g-monospaced {
+    font-family: 'Source Code Pro';
+}
+
+button.btn, textarea.form-control, input.form-control, select.form-control.form-control-sm {
+    border-radius: 0;
+}
