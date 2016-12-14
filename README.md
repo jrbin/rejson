@@ -13,4 +13,4 @@ You can view this [demo site][1]
 - [ ] tabs
 
 [1]: https://junrui93.github.io/rejson
-[2]: https://cloud.githubusercontent.com/assets/17476009/21166206/2ad3b1a8-c1f8-11e6-9f1f-869292aa1833.gif
+[2]: https://cloud.githubusercontent.com/assets/17476009/21167335/029ddcc4-c200-11e6-923b-c5096376ba90.gif
